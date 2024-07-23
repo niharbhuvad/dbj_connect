@@ -1,5 +1,5 @@
 
-<h1 align="center">   Rajagiri Connect </h1>
+<h1 align="center">   DBJ Connect </h1>
 
 <p align="center"> 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=Owner&message=amaan871&color=ff3300" alt="Last Commit"/></a> 
@@ -7,7 +7,7 @@
 <a href="https://github.com/amaan871/rajagiri-connect/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 
-Rajagiri connect is a networking platform that enables the students of Rajagiri to form a social network
+DBJ connect is a networking platform that enables the students of DBJ to form a social network
 among themselves, enabling them to connect with their seniors, juniors and faculty for sharing of
 information and resources.
 
@@ -35,9 +35,6 @@ implementing the project as follows :
 ### Step 3. Git Clone the above repository
 - After installing VS Code, clone the above repository by using the following command
 
-```bash
-git clone https://github.com/amaan871/rajagiri-connect.git
-```
 - Import the saved repository into your VS Code.
 
 ### Step 4. Update the `pubspec.yaml` file
@@ -55,7 +52,3 @@ We have the following branches
 
  * **master**<br>This contains shipped code. After significant features/bugfixes are accumulated on development, we make a version update and make a release.
  	
-
-## Maintainers and Developers
-This repository is owned and maintained by 
- * [Muhammad Amaan](https://github.com/amaan871)
