@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542921166087",
+    "project_id": "dbjconnect-aad99",
+    "storage_bucket": "dbjconnect-aad99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542921166087:android:6829ad2b61c3affd7ac9a2",
+        "android_client_info": {
+          "package_name": "com.example.dbj_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhFw70pgnLOvPe12h3m2gKS-HHC3fKfoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
